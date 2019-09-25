@@ -1,6 +1,6 @@
 {
-  "name": "leaflet-side-by-side",
-  "version": "2.0.0",
+  "name": "leaflet-side-by-side-crowtherlab",
+  "version": "2.0.1",
   "description": "Compare two Leaflet layers side by side",
   "main": "index.js",
   "browserify": {
@@ -24,6 +24,15 @@
   "keywords": [
     "leaflet"
   ],
+  "contributors": [
+    {
+      "name": "Timucin Besken",
+      "email": "timucin.besken@uzh.ch",
+      "url": "https://github.com/TimP4w",
+      "contributions": 20,
+      "hireable": true
+    }
+  ],
   "author": "Gregor MacLennan / Digital Democracy",
   "license": "MIT",
   "devDependencies": {
@@ -40,10 +49,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/digidem/leaflet-side-by-side.git"
+    "url": "git+https://github.com/TimP4w/leaflet-side-by-side.git"
   },
   "bugs": {
-    "url": "https://github.com/digidem/leaflet-side-by-side/issues"
+    "url": "https://github.com/TimP4w/leaflet-side-by-side/issues"
   },
-  "homepage": "https://github.com/digidem/leaflet-side-by-side#readme"
+  "homepage": "https://github.com/TimP4w/leaflet-side-by-side#readme"
 }
